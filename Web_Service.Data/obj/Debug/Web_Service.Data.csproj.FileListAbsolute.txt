@@ -1,0 +1,16 @@
+C:\Users\pcham\onedrive\documents\visual studio 2015\Projects\Web_Application\Web_Service.Data\bin\Debug\Web_Service.Data.dll.config
+C:\Users\pcham\onedrive\documents\visual studio 2015\Projects\Web_Application\Web_Service.Data\bin\Debug\Web_Service.Data.dll
+C:\Users\pcham\onedrive\documents\visual studio 2015\Projects\Web_Application\Web_Service.Data\bin\Debug\Web_Service.Data.pdb
+C:\Users\pcham\onedrive\documents\visual studio 2015\Projects\Web_Application\Web_Service.Data\bin\Debug\AutoMapper.dll
+C:\Users\pcham\onedrive\documents\visual studio 2015\Projects\Web_Application\Web_Service.Data\bin\Debug\EntityFramework.dll
+C:\Users\pcham\onedrive\documents\visual studio 2015\Projects\Web_Application\Web_Service.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pcham\onedrive\documents\visual studio 2015\Projects\Web_Application\Web_Service.Data\bin\Debug\AutoMapper.xml
+C:\Users\pcham\onedrive\documents\visual studio 2015\Projects\Web_Application\Web_Service.Data\bin\Debug\EntityFramework.xml
+C:\Users\pcham\onedrive\documents\visual studio 2015\Projects\Web_Application\Web_Service.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pcham\onedrive\documents\visual studio 2015\Projects\Web_Application\Web_Service.Data\obj\Debug\Web_Service.Data.csprojResolveAssemblyReference.cache
+C:\Users\pcham\onedrive\documents\visual studio 2015\Projects\Web_Application\Web_Service.Data\obj\Debug\Web_Service.Data.dll
+C:\Users\pcham\onedrive\documents\visual studio 2015\Projects\Web_Application\Web_Service.Data\obj\Debug\Web_Service.Data.pdb
+C:\Users\pcham\onedrive\documents\visual studio 2015\Projects\Web_Application\Web_Service.Data\bin\Debug\Autofac.dll
+C:\Users\pcham\onedrive\documents\visual studio 2015\Projects\Web_Application\Web_Service.Data\bin\Debug\Autofac.xml
+C:\Users\pcham\OneDrive\Documents\Visual Studio 2015\Projects\Web_Application\Web_Service.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pcham\OneDrive\Documents\Visual Studio 2015\Projects\Web_Application\Web_Service.Data\bin\Debug\Newtonsoft.Json.xml
